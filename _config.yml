@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Junxiang Ren's Homepage
+title                    : "Junxiang Ren's Homepage"
 title_separator          : "-"
 name                     : &name "Junxiang Ren"
 description              : &description "personal description"
