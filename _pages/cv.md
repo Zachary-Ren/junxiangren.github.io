@@ -21,6 +21,6 @@ Work experience
 
 * Spring 2023: Intern
   * Union Big Data
-  * Data Analyst
+  * Data Scientist
   * Supervisor: Zhengfei Kang
  
