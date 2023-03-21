@@ -14,3 +14,5 @@ Broadly speaking, I am interested in data-driven decision making, with a particu
 
 Currently, I am looking for opportunities to pursue a PhD degree in Statistics or Operations Research.
 
+My email address: rjx19@mails.tsinghua.edu.cn
+
