@@ -12,6 +12,8 @@ redirect_from:
 Education
 ======
 * B.S. in Tsinghua University
+  * Major in Information Management and Information Systems
+  * Minor in Statistics   
 
 Work experience
 ======
